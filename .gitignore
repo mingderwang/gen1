@@ -1,0 +1,6 @@
+Debug/**/*.d
+Debug/**/*.o
+Debug/**/*.su
+Debug/gen1.elf
+Debug/gen1.list
+Debug/gen1.map
